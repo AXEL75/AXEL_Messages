@@ -14,7 +14,15 @@
   "author": "Axel Valero <axel16valerosanchez@gmail.com>",
   "license": "MIT",
   "bin": {
-    "randomSMS": "../bin/global.js"
+    "randomSMS": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AXEL75/AXEL_Messages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AXEL75/AXEL_Messages/issues"
+  },
+  "homepage": "https://github.com/AXEL75/AXEL_Messages#readme"
 }
