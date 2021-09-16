@@ -16,7 +16,7 @@ randomSMS
 ```
 
 # Contributing
-If someone wants to add or improve something, I invite you to collaborate directly in this repository: [axel_valero_random_messages](https://github.com/platzi/npm-random-msg)
+If someone wants to add or improve something, I invite you to collaborate directly in this repository: [axel_valero_random_messages](https://github.com/AXEL75/AXEL_Messages)
 
 # License
 axel_valero_random_messages is released under the [MIT License](https://opensource.org/licenses/MIT).
